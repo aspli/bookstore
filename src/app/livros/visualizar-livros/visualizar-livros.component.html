@@ -1,0 +1,20 @@
+<mat-list *ngIf="livro; else semRegistro">
+  <mat-list-item> Título: {{livro.titulo}} </mat-list-item>
+  <mat-list-item> Data de lançamento: {{livro.dtLancamento | date: 'dd/MM/yyyy' }} </mat-list-item>
+  <mat-list-item> Gênero: {{livro.genero}} </mat-list-item>
+  <mat-list-item class="quebrar-linha"> Descrição: {{livro.descricao}} </mat-list-item>
+  <mat-list-item> Nota: <a [href]="livro.urlIMDb" target="_blank"> {{livro.nota}}</a> </mat-list-item>
+  <mat-list-item> Quantidade: {{livro.quantidade}} </mat-list-item>
+  <mat-list-item class="preco"> R$ {{livro.preco}}0 </mat-list-item>
+  <img mat-card-image [src]="livro.urlFoto || semFoto" >
+</mat-list>
+<mat-card>
+  <mat-card-actions>
+    <button color="accent" mat-raised-button (click)="editar()">Editar</button>
+    <button color="warn" mat-raised-button (click)="excluir()">Excluir</button>
+  </mat-card-actions>
+</mat-card>
+
+<ng-template #semRegistro>
+  <h1 class="full-width main-div">Nenhum registro encontrado!</h1>
+</ng-template>

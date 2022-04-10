@@ -1,0 +1,172 @@
+{
+  "Livros": [
+    {
+      "id": 1,
+      "titulo": "Python Basics: A Self-Teaching Introduction",
+      "urlFoto": "https://covers.zlibcdn2.com/covers299/books/f0/d3/6d/f0d36d571089b7f21c8e4a117b0440f5.jpg",
+      "dtLancamento": "2009-07-11T03:00:00.000Z",
+      "descricao": "This book is designed for use as a primary introduction to Python and can be used as an introductory text or as a resource for professionals in industry. The book has been divided into four sections. The first section deals with the language fundamentals, primarily the procedural part of the language, the second introduces the object-oriented paradigms, the third section deals with data structures, and the last is devoted to advanced topics like handling multi-dimensional arrays using NumPy and visualization using Matplotlib.",
+      "nota": 4,
+      "urlIMDb": "https://pt.br1lib.org/book/3641986/812370",
+      "genero": "Programação",
+      "quantidade": 6,
+      "preco": 39.9
+    },
+    {
+      "id": 2,
+      "titulo": "Getting MEAN with Mongo, Express, Angular, and Node, 2ED ",
+      "urlFoto": "https://covers.zlibcdn2.com/covers299/books/e0/aa/50/e0aa508c4f556479b358f84d95c3ed26.jpg",
+      "dtLancamento": "2019-07-19T03:00:00.000Z",
+      "descricao": "Getting MEAN, Second Edition teaches you how to develop full-stack web applications using the MEAN stack. This edition was completely revised and updated to cover MongoDB 4, Express 4, Angular 7, Node 11, and the latest mainstream release of JavaScript ES2015.",
+      "nota": 5,
+      "urlIMDb": "https://pt.br1lib.org/book/4998136/7bd2ca",
+      "genero": "Programação",
+      "quantidade": 7,
+      "preco": 59.9
+    },
+    {
+      "id": 3,
+      "titulo": "Testing Angular Applications",
+      "urlFoto": "https://covers.zlibcdn2.com/covers299/books/27/b9/0a/27b90a1aad86cf238b03208dccefaff3.jpg",
+      "dtLancamento": "2018-25-11T03:00:00.000Z",
+      "descricao": "Testing is vital to the development process. It improves the quality of code and reduces maintenance, saving both time and money. But testing is sometimes neglected since there are few established resources and standards when it comes to testing modern Angular web applications.",
+      "nota": 4.8,
+      "urlIMDb": "https://pt.br1lib.org/book/3620434/0a5b94",
+      "genero": "Programação",
+      "quantidade": 4,
+      "preco": 69.9
+    },
+    {
+      "id": 4,
+      "titulo": "React Quickly: Painless web apps with React, JSX, Redux, and GraphQL",
+      "urlFoto": "https://covers.zlibcdn2.com/covers299/books/cd/14/d9/cd14d99a1c254706a00ada2b700e58f4.jpg",
+      "dtLancamento": "2017-13-11T03:00:00.000Z",
+      "descricao": "React Quickly is for anyone who wants to learn React.js fast. This hands-on book teaches you the concepts you need with lots of examples, tutorials, and a large main project that gets built throughout the book.",
+      "nota": 4.6,
+      "urlIMDb": "https://pt.br1lib.org/book/3502168/8b331e",
+      "genero": "Programação",
+      "quantidade": 21,
+      "preco": 199.9
+    },
+    {
+      "id": 5,
+      "titulo": "React Native Cookbook: Bringing the Web to Native Platforms",
+      "urlFoto": "https://covers.zlibcdn2.com/covers299/books/9d/68/1b/9d681bb2053f958bd0a7fa7279f411a9.jpg",
+      "dtLancamento": "2018-10-03T03:00:00.000Z",
+      "descricao": "Tackling an app development project on multiple platforms is no simple task. When time is in short supply and customers need access from the tap of a home screen, React Native can provide a lean development team with the tools needed to deliver a multi-platform native experience without juggling multiple programming languages and shifting code bases. React Native is an emerging technology and best practices are only beginning to bubble up.",
+      "nota": 4.7,
+      "urlIMDb": "https://pt.br1lib.org/book/3430498/604fa6",
+      "genero": "Programação",
+      "quantidade": 3,
+      "preco": 19.9
+    },
+    {
+      "id": 6,
+      "titulo": "Clean Code - A Handbook of Agile Software Craftsmanship",
+      "urlFoto": "https://covers.zlibcdn2.com/covers299/books/83/8c/c6/838cc6ac8cb0d8ddb98fdb1ae0c8a443.jpg",
+      "dtLancamento": "2008-04-25T03:00:00.000Z",
+      "descricao": "Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.",
+      "nota": 4.5,
+      "urlIMDb": "https://pt.br1lib.org/book/634988/95818e",
+      "genero": "Programação",
+      "quantidade": 6,
+      "preco": 149.9
+    },
+    {
+      "id": 7,
+      "titulo": "Java: The Complete Reference, Eleventh Edition",
+      "urlFoto": "https://covers.zlibcdn2.com/covers299/books/7f/b0/e5/7fb0e58e87aef95feae8c9d3a986a0a7.jpg",
+      "dtLancamento": "2019-03-07T03:00:00.000Z",
+      "descricao": "Fully updated for Java SE 11, Java: The Complete Reference, Eleventh Edition explains how to develop, compile, debug, and run Java programs. Best-selling programming author Herb Schildt covers the entire Java language, including its syntax, keywords, and fundamental programming principles.",
+      "nota": 6.9,
+      "urlIMDb": "https://pt.br1lib.org/book/3697965/3cb076",
+      "genero": "Programação",
+      "quantidade": 11,
+      "preco": 189.9
+    },
+    {
+      "id": 8,
+      "titulo": "Android Apprentice (Second Edition): Beginning Android Development with Kotlin!",
+      "urlFoto": "https://covers.zlibcdn2.com/covers299/books/1b/d9/24/1bd924b5290c1fc9f365374e83e9da81.jpg",
+      "dtLancamento": "2019-04-04T03:00:00.000Z",
+      "descricao": "Learning Android programming can be challenging. Sure, there is plenty of documentation, but the tools and libraries available today for Android are easily overwhelming for newcomers to Android and Kotlin.",
+      "nota": 7.1,
+      "urlIMDb": "https://pt.br1lib.org/book/5269268/3fd6d5",
+      "genero": "Programação",
+      "quantidade": 3,
+      "preco": 109.9
+    },
+    {
+      "id": 9,
+      "titulo": "Project Management Case Studies",
+      "urlFoto": "https://covers.zlibcdn2.com/covers299/books/76/3e/c9/763ec9dd1aabbcb5cdee7fab71e0d52e.jpg",
+      "dtLancamento": "2017-05-16T03:00:00.000Z",
+      "descricao": "After on-the-job experience, case studies are the most important part of every project manager's training. This Fifth Edition of Project Management Case Studies features more than one hundred case studies that detail projects at high-profile companies around the world.",
+      "nota": 4.5,
+      "urlIMDb": "https://pt.br1lib.org/book/3493225/6d245d",
+      "genero": "Programação",
+      "quantidade": 7,
+      "preco": 88.9
+    },
+    {
+      "titulo": "A Guide to the Project Management Body of Knowledge",
+      "urlFoto": "https://covers.zlibcdn2.com/covers299/books/a4/9f/67/a49f674ec1acf789d9246dfac1ffb8c4.jpg",
+      "dtLancamento": "2017-06-14T03:00:00.000Z",
+      "descricao": "A Guide to the Project Management Body of Knowledge (PMBOK® Guide) is PMI's flagship publication and is a fundamental resource for effective project management in any industry.",
+      "nota": 5,
+      "urlIMDb": "https://pt.br1lib.org/book/3402201/54091f",
+      "genero": "Programação",
+      "quantidade": 9,
+      "preco": 78.9,
+      "id": 10
+    },
+    {
+      "titulo": "Beginning Git and GitHub: A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer",
+      "urlFoto": "https://covers.zlibcdn2.com/covers299/books/6d/c5/9c/6dc59c1d60ff48691d66d89295923fd0.jpg",
+      "dtLancamento": "2020-12-19T03:00:00.000Z",
+      "descricao": "Learn the fundamentals of version control through step-by-step tutorials that will teach you the ins-and-outs of Git. This book is your complete guide to how Git and GitHub work in a professional team environment.",
+      "nota": 4.9,
+      "urlIMDb": "https://pt.br1lib.org/book/5397987/99a9c2",
+      "genero": "Programação",
+      "quantidade": 5,
+      "preco": 48.9,
+      "id": 11
+    },
+    {
+      "titulo": "Um De Nós Está Mentindo",
+      "urlFoto": "https://covers.zlibcdn2.com/covers299/books/04/4c/08/044c08686affed2c9ebf6b2c9937f74e.jpg",
+      "dtLancamento": "2018-03-20T03:00:00.000Z",
+      "descricao": "Um suspense que prenderá o leitor da primeira à última página. Numa tarde de segunda-feira, cinco alunos entram em detenção no colégio Bayview: Bronwyn, a gênia, comprometida a estudar em Yale, Addy, a bela, a definição da princesa do baile de primavera, Nate, o criminoso, já em liberdade condicional por tráfico de drogas, Cooper, o atleta, astro do time de beisebol, e Simon, o pária, criador do mais famoso app de fofocas da escola. Só que Simon não consegue ir embora. Antes do fim da detenção, ele está morto. E, de acordo com os investigadores, a sua morte não foi acidental. Os outros quatro alunos são suspeitos do seu assassinato. Ou eles são as vítimas perfeitas de um assassino que continua à solta? Todo mundo tem segredos, certo? Mas até onde cada um vai para proteger os seus?",
+      "nota": 5,
+      "urlIMDb": "https://pt.br1lib.org/book/4961806/006c67?dsource=mostpopular",
+      "genero": "Ficção cientifica",
+      "quantidade": 23,
+      "preco": 49.9,
+      "id": 12
+    },
+    {
+      "titulo": "É Assim Que Acaba",
+      "urlFoto": "https://covers.zlibcdn2.com/covers299/books/2a/72/6d/2a726dda9050822933e04cd0ae38ba01.jpg",
+      "dtLancamento": "2018-05-16T03:00:00.000Z",
+      "descricao": "Lily nem sempre teve uma vida fácil, mas isso nunca a impediu de trabalhar arduamente para conquistar a vida tão sonhada. Ela percorreu um longo caminho desde a infância, em uma cidadezinha no Maine: se formou em marketing, mudou para Boston e abriu a própria loja. Então, quando se sente atraída por um lindo neurocirurgião chamado Ryle Kincaid, tudo parece perfeito demais para ser verdade.",
+      "nota": 5,
+      "urlIMDb": "https://pt.br1lib.org/book/5480377/eb7a59",
+      "genero": "Romance",
+      "quantidade": 11,
+      "preco": 36.9,
+      "id": 13
+    },
+    {
+      "titulo": "Do mil ao milhão: Sem cortar o cafezinho",
+      "urlFoto": "https://covers.zlibcdn2.com/covers299/books/99/b8/b0/99b8b0d8aae479e39dcf47cba36100e5.jpg",
+      "dtLancamento": "2018-08-22T03:00:00.000Z",
+      "descricao": "Em seu primeiro livro, Thiago Nigro, criador da plataforma O Primo Rico, ensina aos leitores os três pilares para atingir a independência financeira: gastar bem, investir melhor e ganhar mais. Por meio de dados e de sua própria experiência como investidor e assessor, Nigro mostra que a riqueza é possível para todos – basta estar disposto a aprender e se dedicar.",
+      "nota": 5,
+      "urlIMDb": "https://pt.br1lib.org/book/4978586/3038d5",
+      "genero": "Aventura",
+      "quantidade": 5,
+      "preco": 48.9,
+      "id": 14
+    }
+  ]
+}
