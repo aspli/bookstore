@@ -26,6 +26,10 @@ export class VisualizarLivrosComponent implements OnInit {
     this.visualizar();
   }
 
+  voltar(): void {
+    this.router.navigateByUrl('/');
+  }
+
   editar(): void {
     this.router.navigateByUrl('/livros/cadastro/' + this.id);
   }

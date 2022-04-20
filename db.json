@@ -13,7 +13,6 @@
       "preco": 39.9
     },
     {
-      "id": 2,
       "titulo": "Getting MEAN with Mongo, Express, Angular, and Node, 2ED ",
       "urlFoto": "https://covers.zlibcdn2.com/covers299/books/e0/aa/50/e0aa508c4f556479b358f84d95c3ed26.jpg",
       "dtLancamento": "2019-07-19T03:00:00.000Z",
@@ -22,7 +21,8 @@
       "urlIMDb": "https://pt.br1lib.org/book/4998136/7bd2ca",
       "genero": "Programação",
       "quantidade": 7,
-      "preco": 59.9
+      "preco": 59.788,
+      "id": 2
     },
     {
       "id": 3,
